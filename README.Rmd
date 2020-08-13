@@ -16,7 +16,7 @@ source("build.R")
 
 # Baby Yoda
 
-This repository contains the detailed brick requirements and building instructions for creating your own Baby Yoda Lego model. The model was built using the [`brickr`](https://github.com/ryantimpe/brickr) R package, and was adapted from the Baby Yoda model originally designed by @ryantimpe (see [here](https://gist.github.com/ryantimpe/3893fdd0f94138d027bae35bf38b57c7) for the code for that model). The adaption was necessary, as the original model contained a number of "floating bricks" (i.e. bricks that are not supported by another brick from either above or below).
+This repository contains the detailed brick requirements and building instructions for creating your own Baby Yoda Lego model. The model was built using the [`brickr`](https://github.com/ryantimpe/brickr) R package, and was adapted from the Baby Yoda model originally designed by [Ryan Timppe](https://github.com/ryantimpe) (see [here](https://gist.github.com/ryantimpe/3893fdd0f94138d027bae35bf38b57c7) for the code for that model). The adaption was necessary, as the original model contained a number of "floating bricks" (i.e. bricks that are not supported by another brick from either above or below), which work fine when rendering the model in R but cannot be used in a physical version.
 
 
 # Finished model
