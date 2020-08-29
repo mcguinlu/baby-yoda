@@ -15,9 +15,14 @@ are not supported by another brick from either above or below), which
 work fine when rendering the model in R but cannot be used in a physical
 version.
 
+This version was designed to work with a electromagnetic levitation
+display to give it a true-to-life feel. I used [this
+one](https://www.amazon.co.uk/gp/product/B07YKY6K8J/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1),
+but it will work with display with a flating magnet diameter of \<5.5cm.
+
 # Finished model
 
-<img src="finished_model/Finished_model.jpeg" width="100%" />
+<img src="finished_model/babyyoda.gif" width="100%" />
 
 More photos of the finished model from different angles can be found
 [here](/finished_model).
@@ -34,19 +39,22 @@ The total cost for all pieces included in this model was \~£30 pounds.
 
 Here is the same information as a table:
 
-| LEGO Brick Color       | 1 x 1 | 2 x 1 | 2 x 2 | 3 x 1 | 4 x 1 | 4 x 2 |
-| :--------------------- | ----: | ----: | ----: | ----: | ----: | ----: |
-| Black                  |     0 |     5 |     0 |     0 |     0 |     0 |
-| Brick yellow           |     3 |     2 |     0 |     4 |     6 |     0 |
-| Flame yellowish orange |     2 |     0 |     2 |     0 |     0 |     0 |
-| Light purple           |     2 |     2 |     0 |     0 |     4 |     0 |
-| Reddish brown          |     4 |     3 |     3 |     3 |     6 |     9 |
-| Sand green             |    20 |     7 |     5 |     6 |    10 |    12 |
-| White                  |    18 |    28 |    10 |     6 |     9 |    22 |
+| Lego\_color | LEGO Brick Color       | 1 x 1 | 2 x 1 | 2 x 2 | 3 x 1 | 4 x 1 | 4 x 2 |
+| :---------- | :--------------------- | ----: | ----: | ----: | ----: | ----: | ----: |
+| \#1B2A34    | Black                  |     0 |     5 |     0 |     0 |     0 |     0 |
+| \#5F3109    | Reddish brown          |     4 |     3 |     3 |     3 |     4 |     7 |
+| \#708E7C    | Sand green             |     8 |    24 |     0 |     0 |    34 |     0 |
+| \#CCB98D    | Brick yellow           |     3 |     2 |     0 |     4 |     6 |     0 |
+| \#F4F4F4    | White                  |    26 |    31 |    11 |    10 |    13 |    11 |
+| \#FCAC00    | Flame yellowish orange |     2 |     0 |     2 |     0 |     0 |     0 |
+| \#FF9ECD    | Light purple           |     2 |     2 |     0 |     0 |     4 |     0 |
 
 ## Instructions
 
 The instructions below will guide you through building your own Baby
-Yoda, using the pieces detailed above:
+Yoda, using the pieces detailed above. It can be awkward to get some of
+the pieces to work together when building up, as they are supported by a
+brick on the next level up. In this case, a useful tip is to try
+building down (i.e. descending through the steps).
 
 <img src="babyyoda_instructions.png" width="100%" />
