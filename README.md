@@ -16,9 +16,11 @@ work fine when rendering the model in R but cannot be used in a physical
 version.
 
 This version was designed to work with a electromagnetic levitation
-display to give it a true-to-life feel. I used [this
-one](https://www.amazon.co.uk/gp/product/B07YKY6K8J/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1),
-but it will work with display where the diameter of the floating magnet is \<5.5cm.
+display to give it a true-to-life feel. I used the [Hongzer Magnetic
+Levitation
+Platform](https://www.amazon.co.uk/gp/product/B07YKY6K8J/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+(£6-7 pounds from Amazon), but it will (/should\!) work with any display
+where the diameter of the floating magnet is \<5.5cm.
 
 # Finished model
 
@@ -53,8 +55,8 @@ Here is the same information as a table:
 
 The instructions below will guide you through building your own Baby
 Yoda, using the pieces detailed above. It can be awkward to get some of
-the pieces to work together when building up, as they are supported by a
-brick on the next level up. In this case, a useful tip is to try
-building down (i.e. descending through the steps).
+the pieces to work together when building from the bottom up, as they
+are supported by a brick on the next level. In this case, a useful tip
+is to try building down (i.e. descending through the steps).
 
 <img src="babyyoda_instructions.png" width="100%" />
