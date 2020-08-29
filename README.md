@@ -18,7 +18,7 @@ version.
 This version was designed to work with a electromagnetic levitation
 display to give it a true-to-life feel. I used [this
 one](https://www.amazon.co.uk/gp/product/B07YKY6K8J/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1),
-but it will work with display with a flating magnet diameter of \<5.5cm.
+but it will work with display where the diameter of the floating magnet is \<5.5cm.
 
 # Finished model
 
